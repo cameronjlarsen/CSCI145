@@ -56,7 +56,7 @@ public class PascalTriangle{
             System.out.println("2. To print n to m rows of Pascal's triangle");
             System.out.println("3. To print the nth row of Pascal's triangle");
             System.out.println("4. To exit");
-            
+            System.out.print("Choice: ");
             Scanner input = new Scanner(System.in);
             choice = input.nextInt();
                 
