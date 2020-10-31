@@ -80,31 +80,24 @@ public class StatisticsProgram {
 
         System.out.println("Welcome to the statistics program!\n"); 
         System.out.println("This program will calculate the mean, variance, and Standard deviation of the data provided");
-        Scanner input = new Scanner(System.in);
 
-        do{
-
-            // declare variables
-            double[] data = readData();
-            double mean = arithmeticMean(data);
-            double variance = variance(data);
-            double deviation = standardDeviation(variance);
+        // declare variables
+        double[] data = readData();
+        double mean = arithmeticMean(data);
+        double variance = variance(data);
+        double deviation = standardDeviation(variance);
             
-            // output data provided
-            System.out.print("\nData entered:\n");
-            for(int i = 0; i < data.length; i++){
-                System.out.printf("%5.2f ", data[i]);
-                if(i > 0 && i % 9 == 0)
-                System.out.println();
-            }
-            // output values
-            System.out.printf("\n\nThe arithmetic mean is: %.2f\n", mean);
-            System.out.printf("The variance is: %.2f\n", variance);
-            System.out.printf("The standard deviation is: %.2f", deviation);
-
-            System.out.print("Enter -q to quit or -y to enter another data set: ");
-        }while(!"q".equalsIgnoreCase(input.next()));
-        input.close();
+        // output data provided
+        System.out.print("\nData entered:\n");
+        for(int i = 0; i < data.length; i++){
+            System.out.printf("%5.2f ", data[i]);
+            if(i > 0 && i % 9 == 0)
+            System.out.println();
+        }
+        // output values
+        System.out.printf("\n\nThe arithmetic mean is: %.2f\n", mean);
+        System.out.printf("The variance is: %.2f\n", variance);
+        System.out.printf("The standard deviation is: %.2f", deviation);
     }
 }
 
