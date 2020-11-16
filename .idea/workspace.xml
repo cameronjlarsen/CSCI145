@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eeffe878-bf7e-4801-bb00-d6477a973118" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Project2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2/LetterGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2/PascalTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2/PaymentProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2/StatisticsProgram.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kMLXVZTAsScTRergRfpmC2Kztv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eeffe878-bf7e-4801-bb00-d6477a973118" name="Default Changelist" comment="" />
+      <created>1605505554319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605505554319</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2138" y="453" key="FileChooserDialogImpl" timestamp="1605505595651">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2138" y="453" key="FileChooserDialogImpl/0.0.3440.1400/-1080.0.1080.1880@0.0.3440.1400" timestamp="1605505595651" />
+    <state x="1741" y="332" key="new project wizard" timestamp="1605505598857">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1741" y="332" key="new project wizard/0.0.3440.1400/-1080.0.1080.1880@0.0.3440.1400" timestamp="1605505598857" />
+  </component>
+</project>
