@@ -37,7 +37,9 @@ public class Main {
     public static void main(String[] args) {
 
         // initial values assumed
-        double a = -1, b = 2;
+        double a = 1, b = 2;
+
+        System.out.printf("Given the function x^3 + x - 3 on the interval %.0f to %.0f%n", a, b);
         bisection(a,b);
     }
 }
