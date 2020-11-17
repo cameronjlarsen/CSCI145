@@ -1,8 +1,7 @@
 public class ShortCode{
-    static int prod(int[] values){
-        int product = 0;
-        for(int i = 0; i < values.length;i++)
-            product *= values[i];
-        return product;
+    static int sum(int[] values, int size){
+        if(size <= 0)
+            return 0;
+        return (sum(values, size-1) + values[size-1]);
     }
 }
