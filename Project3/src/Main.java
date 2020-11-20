@@ -31,7 +31,7 @@ public class Main {
                 a = c;
         }
 
-        // prints value of c upto 5 decimal places
+        // prints value of c to 5 decimal places
         System.out.printf("The value of root is : %.5f", c);
     }
     public static void main(String[] args) {
